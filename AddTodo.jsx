@@ -30,7 +30,7 @@ function AddTodo(props) {
         </div>
         <div className="col-2">
           <button type="submit" className="btn btn-success kg-button">
-            <MdAddBox />
+            <MdAddBox />Hello World
           </button>
         </div>
       </form>
